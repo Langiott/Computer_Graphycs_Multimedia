@@ -1,6 +1,6 @@
 ### Computer_Graphycs_Multimedia vs Computer Visions
 La computer graphics e la computer vision sono due discipline fondamentali dell'informatica che si concentrano su immagini e dati visivi, ma con obiettivi opposti. 
-![Testo alternativo](/image.jpg)
+![Testo alternativo](/image.png)
 ## Computer Graphics:
 - Obiettivo: Creare immagini e contenuti visivi a partire da modelli matematici, dati e scene virtuali.
 - Input e Output: Riceve dati o modelli matematici (es. coordinate 3D, texture) e genera immagini, video o scene visive.
