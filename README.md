@@ -52,7 +52,7 @@ Questi pacchetti software combinano strumenti di modellazione e rendering in un 
 
 •	Unity è una piattaforma di sviluppo 3D in tempo reale che combina funzionalità di modellazione, rendering, scripting e interazione per creare applicazioni grafiche e giochi interattivi.Utilizzato per giochi AAA per realtà virtuale e aumentata o cinematografia
 
-##Integrazione e Flusso di Lavoro
+## Integrazione e Flusso di Lavoro
 Spesso, questi strumenti non operano isolatamente. Ad esempio, un artista può:
 1.	Usare un software di modellazione come Blender o Maya per creare i modelli 3D.
 2.	Affinare l'aspetto visivo con una libreria come OpenGL per sviluppare un'applicazione interattiva.
