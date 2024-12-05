@@ -14,7 +14,6 @@ La computer graphics e la computer vision sono due discipline fondamentali dell'
 - Tecnologie chiave:Riconoscimento di pattern e oggetti.Segmentazione delle immagini.Visione stereoscopica per la percezione della profondità.Algoritmi di apprendimento automatico (reti neurali convoluzionali, deep learning).
 - Esempio: Identificare pedoni e segnali stradali in un video per un'auto a guida autonoma.
 
- 
 Gli strumenti software utilizzati in computer graphics si dividono in categorie specifiche per affrontare diversi aspetti della creazione, manipolazione e rendering di immagini e modelli 3D. Ecco una panoramica dettagliata dei tipi di strumenti menzionati:
 
 ## Librerie Grafiche
@@ -35,13 +34,8 @@ Questi strumenti si concentrano sull'elaborazione finale delle immagini 3D a par
 •	BMRT (Blue Moon Rendering Tools): Compatibile con RenderMan, è un motore di rendering che supporta shader complessi, ombre morbide e altri effetti avanzati. Molto utilizzato in passato per la produzione cinematografica.
 
 ## Strumenti di Modellazione
-Questi strumenti permettono la creazione di modelli 3D attraverso interfacce interattive, consentendo agli artisti di manipolare oggetti nello spazio virtuale.
-
-•	Gli strumenti di modellazione offrono funzioni come estrusione, suddivisione di superfici, modellazione basata su curve (NURBS) e gestione di mesh poligonali.
-
-•	Utilizzati in applicazioni che vanno dalla progettazione industriale all'animazione 3D e al game design.
-
-•	Alcuni software includono anche funzionalità di texturing, rigging e animazione.
+Questi strumenti permettono la creazione di modelli 3D attraverso interfacce interattive, consentendo agli artisti di manipolare oggetti nello spazio virtuale.Gli strumenti di modellazione offrono funzioni come estrusione, suddivisione di superfici, modellazione basata su curve (NURBS) e gestione di mesh poligonali.Utilizzati in applicazioni che vanno dalla progettazione industriale all'animazione 3D e al game design.
+Alcuni software includono anche funzionalità di texturing, rigging e animazione.
 
 ## Suite di Strumenti Integrati
 Questi pacchetti software combinano strumenti di modellazione e rendering in un unico ambiente, semplificando il flusso di lavoro per artisti e designer.
