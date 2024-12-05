@@ -7,7 +7,7 @@ La computer graphics e la computer vision sono due discipline fondamentali dell'
 - Tecnologie chiave:Rendering 2D e 3D.Modellazione di superfici e texture.Ray tracing e rasterizzazione per effetti realistici.Shader per illuminazione, ombre e materiali.
 - Esempio: Creare un modello 3D di una città e visualizzarlo in modo realistico con luci e ombre.
 
-##Computer Vision:
+## Computer Vision:
 - Obiettivo: Permettere ai computer di comprendere ed estrarre informazioni utili dalle immagini o dai video.
 - Input e Output: Riceve immagini o video (fotografie, flussi video) e restituisce interpretazioni o analisi (es. identificazione di oggetti, tracciamento di movimenti).
 - Applicazioni: Riconoscimento facciale, guida autonoma, diagnostica medica basata su immagini, sistemi di sorveglianza, robotica.
@@ -17,7 +17,7 @@ La computer graphics e la computer vision sono due discipline fondamentali dell'
  
 Gli strumenti software utilizzati in computer graphics si dividono in categorie specifiche per affrontare diversi aspetti della creazione, manipolazione e rendering di immagini e modelli 3D. Ecco una panoramica dettagliata dei tipi di strumenti menzionati:
 
-##Librerie Grafiche
+## Librerie Grafiche
 Queste librerie forniscono API (Application Programming Interface) che consentono agli sviluppatori di creare e gestire contenuti visivi. Si concentrano sull'elaborazione di grafica 2D e 3D a basso livello.
 •	Direct3D: Parte della piattaforma DirectX di Microsoft, Direct3D è una libreria per lo sviluppo di grafica 3D, utilizzata soprattutto nei videogiochi e nelle applicazioni Windows. Supporta il rendering hardware, la gestione di shader e tecniche avanzate come il ray tracing.
 
@@ -25,7 +25,7 @@ Queste librerie forniscono API (Application Programming Interface) che consenton
 
 •	Performer (SGI): Un'estensione ad alto livello di OpenGL sviluppata da Silicon Graphics Inc. È progettata per applicazioni in tempo reale, come simulazioni e visualizzazioni, fornendo astrazioni che semplificano lo sviluppo di scene complesse.
 
-##Programmi di Rendering
+## Programmi di Rendering
 Questi strumenti si concentrano sull'elaborazione finale delle immagini 3D a partire da modelli e dati visivi. Il rendering può essere fotorealistico (con simulazioni realistiche di luce e materiali) o stilizzato.
 
 •	PovRay (Persistence of Vision Raytracer): Un software open source per il ray tracing. Consente la creazione di immagini fotorealistiche partendo da descrizioni testuali di scene 3D. È noto per la sua flessibilità ma ha una curva di apprendimento ripida.
@@ -34,7 +34,7 @@ Questi strumenti si concentrano sull'elaborazione finale delle immagini 3D a par
 
 •	BMRT (Blue Moon Rendering Tools): Compatibile con RenderMan, è un motore di rendering che supporta shader complessi, ombre morbide e altri effetti avanzati. Molto utilizzato in passato per la produzione cinematografica.
 
-##Strumenti di Modellazione
+## Strumenti di Modellazione
 Questi strumenti permettono la creazione di modelli 3D attraverso interfacce interattive, consentendo agli artisti di manipolare oggetti nello spazio virtuale.
 
 •	Gli strumenti di modellazione offrono funzioni come estrusione, suddivisione di superfici, modellazione basata su curve (NURBS) e gestione di mesh poligonali.
@@ -43,7 +43,7 @@ Questi strumenti permettono la creazione di modelli 3D attraverso interfacce int
 
 •	Alcuni software includono anche funzionalità di texturing, rigging e animazione.
 
-##Suite di Strumenti Integrati
+## Suite di Strumenti Integrati
 Questi pacchetti software combinano strumenti di modellazione e rendering in un unico ambiente, semplificando il flusso di lavoro per artisti e designer.
 
 •	3D Studio MAX: Ora noto come 3ds Max, è sviluppato da Autodesk. È molto utilizzato nell'industria dei videogiochi, dell'architettura e degli effetti visivi. Offre potenti strumenti di modellazione e un motore di rendering integrato.
