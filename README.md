@@ -1,27 +1,18 @@
-## Computer_Graphycs_Multimedia vs Computer Visions
+### Computer_Graphycs_Multimedia vs Computer Visions
 La computer graphics e la computer vision sono due discipline fondamentali dell'informatica che si concentrano su immagini e dati visivi, ma con obiettivi opposti. 
-Computer Graphics:
+##Computer Graphics:
+- Obiettivo: Creare immagini e contenuti visivi a partire da modelli matematici, dati e scene virtuali.
+- Input e Output: Riceve dati o modelli matematici (es. coordinate 3D, texture) e genera immagini, video o scene visive.
+- Applicazioni: Videogiochi, simulazioni, effetti speciali nei film, rendering architettonico, visualizzazioni scientifiche.
+- Tecnologie chiave:Rendering 2D e 3D.Modellazione di superfici e texture.Ray tracing e rasterizzazione per effetti realistici.Shader per illuminazione, ombre e materiali.
+- Esempio: Creare un modello 3D di una città e visualizzarlo in modo realistico con luci e ombre.
 
-•	Obiettivo: Creare immagini e contenuti visivi a partire da modelli matematici, dati e scene virtuali.
-
-•	Input e Output: Riceve dati o modelli matematici (es. coordinate 3D, texture) e genera immagini, video o scene visive.
-
-•	Applicazioni: Videogiochi, simulazioni, effetti speciali nei film, rendering architettonico, visualizzazioni scientifiche.
-
-•	Tecnologie chiave:Rendering 2D e 3D.Modellazione di superfici e texture.Ray tracing e rasterizzazione per effetti realistici.Shader per illuminazione, ombre e materiali.
-
-•	Esempio: Creare un modello 3D di una città e visualizzarlo in modo realistico con luci e ombre.
-
-Computer Vision:
-•	Obiettivo: Permettere ai computer di comprendere ed estrarre informazioni utili dalle immagini o dai video.
-
-•	Input e Output: Riceve immagini o video (fotografie, flussi video) e restituisce interpretazioni o analisi (es. identificazione di oggetti, tracciamento di movimenti).
-
-•	Applicazioni: Riconoscimento facciale, guida autonoma, diagnostica medica basata su immagini, sistemi di sorveglianza, robotica.
-
-•	Tecnologie chiave:Riconoscimento di pattern e oggetti.Segmentazione delle immagini.Visione stereoscopica per la percezione della profondità.Algoritmi di apprendimento automatico (reti neurali convoluzionali, deep learning).
-
-•	Esempio: Identificare pedoni e segnali stradali in un video per un'auto a guida autonoma.
+##Computer Vision:
+- Obiettivo: Permettere ai computer di comprendere ed estrarre informazioni utili dalle immagini o dai video.
+- Input e Output: Riceve immagini o video (fotografie, flussi video) e restituisce interpretazioni o analisi (es. identificazione di oggetti, tracciamento di movimenti).
+- Applicazioni: Riconoscimento facciale, guida autonoma, diagnostica medica basata su immagini, sistemi di sorveglianza, robotica.
+- Tecnologie chiave:Riconoscimento di pattern e oggetti.Segmentazione delle immagini.Visione stereoscopica per la percezione della profondità.Algoritmi di apprendimento automatico (reti neurali convoluzionali, deep learning).
+- Esempio: Identificare pedoni e segnali stradali in un video per un'auto a guida autonoma.
 
  
 Gli strumenti software utilizzati in computer graphics si dividono in categorie specifiche per affrontare diversi aspetti della creazione, manipolazione e rendering di immagini e modelli 3D. Ecco una panoramica dettagliata dei tipi di strumenti menzionati:
